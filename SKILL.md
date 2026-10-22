@@ -1,12 +1,3 @@
----
-description: Create high-quality Pinterest image concepts,
-  image-generation prompts, and SEO-ready Pin copy for individual
-  QuizBombs quizzes or batches of quiz topics.
-name: quizbombs-pinterest-creative
----
-
-# QuizBombs Pinterest Creative Skill
-
 ## Purpose
 
 Use this skill whenever the user asks to create, design, generate, plan,
