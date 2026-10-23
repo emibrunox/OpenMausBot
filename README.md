@@ -8,6 +8,7 @@ This pack contains one `SKILL.md` for each QuizBombs AI team member:
 - Echo — Social Media & Distribution Specialist
 - Pixel — Website QA & Technical Quality Specialist
 - Pulse — Analytics & Growth Performance Specialist
+- Nova — Social Creative & Media Producer
 
 ## How to use
 1. Open the bot/member configuration for the relevant agent.
